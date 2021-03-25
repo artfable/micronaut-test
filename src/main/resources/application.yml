@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: Test
+  server:
+    port: 6669
